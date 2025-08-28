@@ -16,6 +16,7 @@
 #include <string>
 #include <thread>
 #include <vector>
+#include <atomic>
 
 #include <nlohmann/json.hpp>
 
